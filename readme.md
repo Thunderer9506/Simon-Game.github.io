@@ -4,7 +4,7 @@ A simple browser-based version of the classic Simon memory game — remember the
 
 ## Live Demo
 
-You can try it out live here: **[Insert your hosted demo link, e.g., GitHub Pages or CodeSandbox]**
+You can try it out live here: **[https://thunderer9506.github.io/Simon-Game.github.io/]**
 
 Alternatively, clone this repo and open `index.html` in your browser to play locally.
 
